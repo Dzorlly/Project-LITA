@@ -95,3 +95,15 @@ Average Revenue = Total Revenue / Units Sold
 ![Screenshot 2024-10-07 084929](https://github.com/user-attachments/assets/b060ff03-840a-4d34-82cc-cc2278c74f99)
 
 ## Inference:
+
+# 3. Average Revenue by Region
+## Pivot Table:
+
+## Filtered Chart for Year 2014:
+
+## Filtered Chart for Year 2015:
+
+## Inference:
+
+# Conclusion
+This analysis provides valuable insights into the sales performance of different regions. By understanding revenue distribution, units sold, and average revenue by region, businesses can identify high-performing areas and optimize their strategies accordingly.
